@@ -1,0 +1,46 @@
+login11.c
+#define IDC_EUSER 401
+#define IDC_EPASS 402
+#define IDC_BUTTON_SAMPLE 100
+#define IDC_BUTTON_LOG 101
+#define IDC_BUTTON_NH  102
+#define IDC_BUTTON_HELP 103
+#define IDC_BUTTON_HELP_CHD 104
+NhBox.c
+#define IDC_CANKAO   113
+#define IDC_YANGPING 114
+#define IDC_QISHI    115  //起始波长输入框
+#define IDC_ZHONGZHI 116  //终止波长输入框
+#define IDC_NH_NUM   117 //用于编辑框的输入酷工具栏，
+#define IDC_START    118 //控制步进电机开始光谱检测
+#define IDC_SAVE     119 //用于数据保存
+#define IDC_WAVEONE  210  //用于显示2930波数电压结果
+#define IDC_WAVETWO  211  //用于显示2960波数电压结果
+#define IDC_WAVETHREE  212  //用于显示3030波数电压结果
+#define IDC_RESULT     213  //用于显示浓度值
+SaveNum.c
+#define IDC_FILENAME  120   // 文件名编辑框
+SampleBox.c
+#define IDC_PUMP1     121    // 样品
+#define IDC_PUMP1_ON  122
+#define IDC_PUMP1_OFF 123
+#define IDC_PUMP2     124     //指示液
+#define IDC_PUMP2_ON  125
+#define IDC_PUMP2_OFF 126
+#define IDC_PUMP3     127      //清水冲洗
+#define IDC_PUMP3_ON  128
+#define IDC_PUMP3_OFF 129
+#define IDC_PUMP4     130      //排液泵
+#define IDC_PUMP4_ON  131
+#define IDC_PUMP4_OFF 132
+
+LogBox.c 
+#define IDC_LOG_USER   140
+
+mycoolbar.c
+#define ITEM_NUM 10
+#define IDC_CB_NUM      200
+#define IDC_CB_QWE      201 
+#define IDC_CB_ASD      202 
+#define IDC_CB_ZXC      203 
+
