@@ -1,3 +1,5 @@
+/*author:linx
+date:2013-10-28 */
 login11.c
 #define IDC_EUSER 401
 #define IDC_EPASS 402
