@@ -52,6 +52,7 @@ struct wave_struct
 struct wave_struct wave_data[TIMES][WAVE_LENGTH];  //暂存电压数据
 //struct wave_struct wave_save[TIMES][WAVE_LENGTH];   //最终电压数据
 static int wave_index=0;   //数据保存的游标
+
 /**************************************************************************************/
 static CTRLDATA CtrlNhFiles[] =
 {
